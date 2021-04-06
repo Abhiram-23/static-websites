@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.crd {
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.hed {
+    color: #5752ab;
+    font-size: 25px;
+    font-family: 'Bree Serif';
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.para {
+    font-family: 'Roboto';
+    color: #323f4b;
+    padding-left: 15px;
+}
+
+.butn {
+    margin: 20px;
+    background-color: #ffffff;
+    color: #171f46;
+    border-radius: 5px;
+    border-width: 1px;
+    height: 40px;
+    width: 120px;
+}
+
+.butn2 {
+    margin: 20px;
+    background-color: #5752ab;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 1px;
+    height: 40px;
+    width: 120px;
+}

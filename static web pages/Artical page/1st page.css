@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.empower {
+    background-color: #225db0;
+    padding: 15px;
+}
+
+.empowerHead {
+    color: white;
+    font-family: 'Roboto';
+    padding-top: 10px;
+}
+
+.empowerPara {
+    color: white;
+    font-family: 'Roboto';
+}
+
+.card {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-family: 'Roboto';
+    margin: 10px;
+}
+
+.Tech {
+    padding: 5px;
+    background-color: #225db0;
+}
+
+.listItem {
+    color: white;
+    font-size: 30px;
+}
+
+.but {
+    text-align: center;
+}
+
+.bt {
+    color: white;
+    background-color: #225db0;
+    border-color: white;
+    border-radius: 5px;
+    width: 125px;
+}
